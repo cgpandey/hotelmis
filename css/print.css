@@ -1,0 +1,17 @@
+/*
+*Put this in the head tag:
+<link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
+*/
+body {
+  color : #000000;
+  background : #ffffff;
+  font-family : "Times New Roman", Times, serif;
+  font-size : 12pt;
+}
+a {
+  text-decoration : underline;
+  color : #0000ff;
+}
+#navigation, #advertising, #other {
+  display : none;
+}
