@@ -5,9 +5,13 @@ Beginners Hotel management System having all the required modules to run hotel s
 ## Getting Started
 
 git clone https://github.com/cgpandey/hotelmis
+
 mv hotelmis WEB_SERVER_ROOT_SERVER
+
 Open http://localhost/phpmyadmin and create database hotelmis
+
 Import hotelmis.sql from project directory to this newly created database
+
 Edit Database info in queryfunctions.php and change port of your mysql database. If you don't know the port just put 3306(default most of the time)
 
 ### Prerequisites
