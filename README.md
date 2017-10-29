@@ -24,8 +24,9 @@ PHPMyAdmin
 
 ## Authors
 
-* **trilexcom** - *Initial work* - [HOTELMIS](https://sourceforge.net/projects/hotelmis/)
-***Chitragupt Pandey** - *Updated it for PHP 7*- [PRP Webs](http://www.prpwebs.com)
+**trilexcom** - *Initial work* - [HOTELMIS](https://sourceforge.net/projects/hotelmis/)
+
+**Chitragupt Pandey** - *Updated it for PHP 7*- [PRP Webs](http://www.prpwebs.com)
 
 ## License
 
