@@ -816,7 +816,7 @@ CREATE TABLE `users` (
 -- 
 
 INSERT INTO `users` (`userid`, `fname`, `sname`, `loginname`, `pass`, `phone`, `mobile`, `fax`, `email`, `dateregistered`, `countrycode`, `admin`, `guest`, `reservation`, `booking`, `agents`, `rooms`, `billing`, `rates`, `lookup`, `reports`) VALUES (1, 'Tony', 'Kazungu', 'tiha', 'f9b96489e9fd87f2cac2addbe813b615', 735716747, 735716747, NULL, 'tkazungu@kilifi.mimcom.net', NULL, 112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0),
-(2, 'Tony', 'Iha', 'admin', '1b3231655cebb7a1f783eddf27d254ca', NULL, NULL, NULL, NULL, '2006-07-07', NULL, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
+(2, 'Admin', 'User', 'admin', '827ccb0eea8a706c4c34a16891f84e7b', NULL, NULL, NULL, NULL, '2006-07-07', NULL, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
 (3, 'Mohamed', 'Said', 'msaid', 'b7b791e873f143d5318310e59022175d', NULL, NULL, NULL, NULL, '2006-07-11', NULL, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1),
 (4, 'Metrine', 'Saisi', 'msaisi', '3edfba58e66acf6f73742e7fbdb908c6', NULL, NULL, NULL, NULL, '2006-07-11', NULL, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0);
 
